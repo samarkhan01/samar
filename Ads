@@ -1,11 +1,14 @@
 [
   {
-      "url": "https://www.gamezop.com/?id=3629"
+      "url": "https://498.live.qureka.com/intro/question"
         },
           {
-              "url": "https://498.live.qureka.com/intro/question"
+              "url": "https://747.live.qureka.com/intro/question"
                 },
                   {
-                      "url": "https://29.go.qureka.com/intro/question"
-                        }
+                      "url": "https://764.live.qureka.com/intro/question"
+                        },
+                          {
+                                                "url": "https://454.go.qureka.co/intro/question"
+                                                                        }
 ]
