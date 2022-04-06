@@ -1,14 +1,14 @@
 [
   {
-      "url": "https://498.live.qureka.com/intro/question"
+      "url": "https://312.go.mglgamez.com/pregames"
         },
           {
-              "url": "https://747.live.qureka.com/intro/question"
+              "url": "https://32.go.qureka.com/intro/question"
                 },
                   {
                       "url": "https://764.live.qureka.com/intro/question"
                         },
                           {
-                                                "url": "https://454.go.qureka.co/intro/question"
+                                                "url": "https://559.go.mglgamez.com/pregames"
                                                                         }
 ]
